@@ -1,5 +1,5 @@
 ---
-title: "Towards integration of Privacy Enhancing Technologies in Explainable Artificial Intelligence"
+title: "ChildShield: A rating system for assessing privacy and security of internet of toys"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-20-journal-paper-2
