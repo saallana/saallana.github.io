@@ -6,7 +6,6 @@ permalink: /publication/2025-08-27-conference-paper-1
 excerpt: 'This paper evaluates the use of noise of different distributions in protecting sensitive information in Explainable AI systems.'
 date: 2025-08-27
 venue: '22nd Annual International Conference on Privacy, Security and Trust (PST)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Allana, S. & Dara, R. Privacy Preservation with Noise in Explainable AI in 22nd Annual International Conference on Privacy, Security and Trust (PST) (2025), 1–8.'
 ---
 
