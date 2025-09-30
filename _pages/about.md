@@ -9,5 +9,5 @@ redirect_from:
 
 I am a Ph.D. Candidate in the Data Management and Privacy Governance Lab, School of Computer Science, University of Guelph. 
 
-My supervisor is Dr. Rozita Dara, Associate Professor and Assistant Director, School of Computer Science. 
+My supervisor is Dr. Rozita Dara, Associate Professor and Assistant Director, School of Computer Science, University of Guelph.
 
