@@ -6,7 +6,7 @@ permalink: /publication/2025-09-20-journal-paper-1
 excerpt: 'This article is a scoping review of current literature on privacy risks and preservation methods in Explainable AI (XAI). Using PRISMA-ScR methodology of scoping review, we extracted 57 articles from 1,943 studies published from January 2019 to December 2024.'
 date: 2025-09-20
 type: preprint
-venue: 'Submitted to Transactions on Machine Learning Research'
+venue: 'Transactions on Machine Learning Research'
 slidesurl: false
 paperurl: false
 bibtexurl: false
